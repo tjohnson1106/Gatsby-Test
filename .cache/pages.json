@@ -13,5 +13,10 @@
         "componentChunkName": "page-component---src-pages-second-gatsby-page-js",
         "jsonName": "second-gatsby-page.json",
         "path": "/second-gatsby-page/"
+    },
+    {
+        "componentChunkName": "page-component---src-pages-counter-js",
+        "jsonName": "counter.json",
+        "path": "/counter/"
     }
 ]

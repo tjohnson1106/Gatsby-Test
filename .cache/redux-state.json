@@ -257,6 +257,23 @@
         "contentDigest": "5f96f8cec73264d1b5b4d8172e437705",
         "owner": "internal-data-bridge"
       }
+    },
+    "SitePage /counter/": {
+      "path": "/counter/",
+      "component": "/home/thomas/code/gatsby-test-site/src/pages/counter.js",
+      "componentChunkName": "page-component---src-pages-counter-js",
+      "jsonName": "counter.json",
+      "internalComponentName": "ComponentCounter",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "id": "SitePage /counter/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4f46081d1ff0a6322cca66ae70b265b2",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
